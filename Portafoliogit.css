@@ -1,8 +1,76 @@
 .fondotarg{
-  background-image: url("191120 132.jpg");
+  background-image: url(191120\ 132.jpg);
   background-position: center;
   background-size: cover;
 }
 .card-body{
   background: none;
+}
+.detalle{
+  color: lightgoldenrodyellow;
+}
+.detalle p,h1{
+  background-color: black;
+  border-radius: 7px;
+  padding: 2px 6px 2px 6px;
+  width: fit-content;
+}
+.detalle p{
+  margin: 1px;
+}
+#github{
+  background-image: url(GitHub-Mark-64px.png);
+  background-position: center;
+  background-size: contain;
+  height: 64px;
+  width: 64px;
+  border: 1px;
+  border-style: groove;
+  border-radius: 57px;
+}
+body{
+  background-color: rgb(186, 161, 99);
+}
+#linked{
+  background-image: url(1485482199-linkedin_78667\ \(1\).ico);
+  background-position: center;
+  background-size: contain;
+  height: 64px;
+  width: 64px;
+  border: 1px;
+  border-style: groove;
+  border-radius: 10px;
+}
+#curric{
+  background-color: rgb(186, 161, 99);
+  border-radius: 10px;
+  background-position: center;
+  background-size: contain;
+  height: 64px;
+  width: 64px;
+  border: 1px;
+  border-style: groove;
+  font-size: 32px;  
+  position: fixed;
+  margin-left: 10px;
+}
+.cabpie{
+  height: 100px;
+  background-color: black;
+  width: 1110px;
+  -webkit-box-align: center;
+  margin-left: initial;
+}
+#volver{
+  background-color: rgb(186, 161, 99);
+  border-radius: 10px;
+  background-position: center;
+  background-size: contain;
+  height: 64px;
+  width: 264px;
+  border: 1px;
+  border-style: groove;
+  font-size: 22px;  
+  position: fixed;
+  margin-left: 10px;
 }
