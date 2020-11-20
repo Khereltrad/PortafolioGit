@@ -40,6 +40,7 @@ body{
   border: 1px;
   border-style: groove;
   border-radius: 10px;
+  margin-left: 10px;
 }
 #curric{
   background-color: rgb(186, 161, 99);
@@ -51,7 +52,6 @@ body{
   border: 1px;
   border-style: groove;
   font-size: 32px;  
-  position: fixed;
   margin-left: 10px;
 }
 .cabpie{
@@ -73,4 +73,10 @@ body{
   font-size: 22px;  
   position: fixed;
   margin-left: 10px;
+}
+#redes{
+  align-content: center;
+  text-align: center;
+  -webkit-writing-mode: vertical-lr;
+  height: 37px;
 }
